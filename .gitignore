@@ -1,2 +1,6 @@
 .history
 .DS_Store
+*.pyc
+__pycache__
+myvenv
+db.sqlite3
